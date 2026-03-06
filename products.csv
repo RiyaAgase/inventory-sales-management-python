@@ -1,0 +1,6 @@
+product_id,name,price,cost,stock
+1,Laptop,50000,40000,10
+2,Mouse,500,300,50
+3,Keyboard,1500,1000,30
+4,Headphones,2000,1500,20
+5,Monitor,12000,9000,15
